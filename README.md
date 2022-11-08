@@ -1,6 +1,6 @@
 # Novel Virus Discovery Pipeline & Consensus Sequence for Mecklenburg et al. 2022
 
-This repository contains two files: 1) a snakefile script, which was used with Snakemake workflow manager, and 2) an annotated consensus sequence for the novel Hepatitis A virus variant documented in Mecklenberg et al. 2022.
+This repository contains two files: 1) a snakefile script, which was used with Snakemake workflow manager, and 2) an annotated consensus sequence for the novel Hepatitis A virus variant documented in Mecklenberg et al. 2022, _A New Variant of Hepatitis A Virus Causing Transient Liver Enzyme Elevations in Mauritius-origin Laboratory-housed Cynomolhus Macaques_.
 
 ## Novel Virus Discovery Pipeline
 
@@ -76,3 +76,9 @@ r2_fastq=$(R2_FASTQ) \
 out_dir=$(OUT_DIR) \
 sample_name=$(SAMPLE_NAME)
 ```
+
+## Consensus Sequence
+
+After the initial results of the NVD pipeline indicated the presence of a novel, Hepatitis A Virus variant, we reprocessed reads manually in [Geneious Prime 2021.2.1](https://www.geneious.com). Like in the NVD pipeline, we first trimmed adapters, low quality sequences, and 19bp from 5’ end of each sequence. We then produced synthetic long reads by merging the trimmed reads with bbmerge, and then mapped these reads to NCBI RefSeq # NC_001489, a Hepatitis A virus reference sequence, with the Geneious mapper. To ensure we detected novel virus reads, we required at least 100 bases of overlap between the reads and the reference sequence and tolerated up to 40% base mismatches. We then generated a prototype consensus sequence from the sample with the best coverage, corrected it by mapping reads from that sample onto its consensus using Multiple Sequence Comparison by Log-Expectation align (MUSCLE; Edgar, 2004), transferred annotations from the human HAV NC_001489, trimmed low quality ends, and translated the consensus sequence into amino acids. Finally, we ran protein and nucleotide BLAST on the 7490 bp consensus sequence of the newly identified HAV, which resulted in several matches that were all approximately 20% nucleotide divergent.
+
+The final, prototypical consensus sequence is available here as `MueHAV-consensus.gb`.
