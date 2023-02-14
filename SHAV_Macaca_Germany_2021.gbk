@@ -1,0 +1,412 @@
+LOCUS       SHAV/Macaca/Germany/2021        7490 bp    DNA     linear   UNA 19-SEP-2021
+DEFINITION  Simian hepatitis A virus isolate SHAV/Macaca/Germany/2021, complete genome.
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      Simian hepatitis A virus (SHAV)
+  ORGANISM  Simian hepatitis A virus (SHAV)
+            Viruses; Riboviria; Orthornavirae; Pisuviricota; Pisoniviricetes;
+            Picornavirales; Picornaviridae; Heptrevirinae; Hepatovirus.
+REFERENCE   1  (bases 1 to 7490)
+FEATURES             Location/Qualifiers
+     source          1..7490
+                     /organism="Simian hepatitis A virus"
+                     /mol_type="genomic RNA"
+                     /isolation_source="blood sample of Cynomolgus macaque"
+                     /host="Macaca fascicularis"
+                     /db_xref="taxon:12101"
+                     /country="Germany"
+                     /collection_date="2021"
+     misc_RNA        1..7472
+                     /locus_tag="HAVgs1"
+                     /note="hepatitis A viral genome"
+                     /db_xref="GeneID:1493917"
+                     /note="Derived using Geneious Prime 2021.2.1 'Transfer
+                     Annotations' based on nucleotide similarity"
+                     /Transferred_From="NC_001489"
+                     /Transferred_Similarity="80.04%"
+                     /Primary_Match="80.04%; Adjusted-Interval-0:0/0; hepatitis
+                     A viral genome RNA (NC_001489)"
+                     /label="hepatitis A viral genome RNA"
+     gene            1..7472
+                     /locus_tag="HAVgs1"
+                     /db_xref="GeneID:1493917"
+                     /note="Derived using Geneious Prime 2021.2.1 'Transfer
+                     Annotations' based on nucleotide similarity"
+                     /Transferred_From="NC_001489"
+                     /Transferred_Similarity="80.04%"
+                     /Primary_Match="80.04%; Adjusted-Interval-0:0/0; gene
+                     (NC_001489)"
+                     /label="gene"
+                     /note="Geneious type: Editing History Deletion"
+     CDS             728..7411
+                     /locus_tag="HAVgp1"
+                     /note="polyprotein a (alt.)"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="NP_041007.1"
+                     /db_xref="GI:9626733"
+                     /db_xref="GeneID:1493918"
+                     /Transferred_Translation="MNMSRQGIFQTVGSGLDHILSLADIEEEQMIQ
+                     SVDRTAVTGASYFTSVDQSSVHTAEVGSHQVEPLRTSVDKPGSKKTQGEKFFLIHSAD
+                     WLTTHALFHEVAKLDVVKLLYNEQFAVQGLLRYHTYARFGIEIQVQINPTPFQQGGLI
+                     CAMVPGDQSYGSIASLTVYPHGLLNCNINNVVRIKVPFIYTRGAYHFKDPQYPVWELT
+                     IRVWSELNIGTGTSAYTSLNVLARFTDLELHGLTPLSTQMMRNEFRVSTTENVVNLSN
+                     YEDARAKMSFALDQEDWKSDPSQGGGIKITHFTTWTSIPTLAAQFPFNASDSVGQQIK
+                     VIPVDPYFFQMTNTNPDQKCITALASICQMFCFWRGDLVFDFQVFPTKYHSGRLLFCF
+                     VPGNELIDVSGITLKQATTAPCAVMDITGVQSTLRFRVPWISDTPYRVNRYTKSAHQK
+                     GEYTAIGKLIVYCYNRLTSPSNVASHVRVNVYLSAINLECFAPLYHAMDVTTQVGDDS
+                     GGFSTTVSTEQNVPDPQVGITTMKDLKGKANRGKMDVSGVQAPVGAITTIEDPVLAKK
+                     VPETFPELKPGESRHTSDHMSIYKFMGRSHFLCTFTFNSNNKEYTFPITLSSTSNPPH
+                     GLPSTLRWFFNLFQLYRGPLDLTIIITGATDVDGMAWFTPVGLAVDTPWVEKESALSI
+                     DYKTALGAVRFNTRRTGNIQIRLPWYSYLYAVSGALDGLGDKTDSTFGLVSIQIANYN
+                     HSDEYLSFSCYLSVTEQSEFYFPRAPLNSNAMLSTESMMSRIAAGDLESSVDDPRSEE
+                     DKRFESHIECRKPYKELRLEVGKQRLKYAQEELSNEVLPPPRKMKGLFSQAKISLFYT
+                     EEHEIMKFSWRGVTADTRALRRFGFSLAAGRSVWTLEMDAGVLTGRLIRLNDEKWTEM
+                     KDDKIVSLIEKFTSNKYWSKVNFPHGMLDLEEIAANSKDFPNMSETDLCFLLHWLNPK
+                     KINLADRMLGLSGVQEIKEQGVGLIAECRTFLDSIAGTLKSMMFGFHHSVTVEIINTV
+                     LCFVKSGILLYVIQQLNQDEHSHIIGLLRVMNYADIGCSVISCGKVFSKMLETVFNWQ
+                     MDSRMMELRTQSFSNWLRDICSGITIFKNFKDAIYWLYTKLKDFYEVNYGKKKDILNI
+                     LKDNQQKIEKAIEEADEFCILQIQDVEKFEQYQKGVDLIQKLRTVHSMAQVDPNLMVH
+                     LSPLRDCIARVHQKLKNLGSINQAMVTRCEPVVCYLYGKRGGGKSLTSIALATKICKH
+                     YGVEPEKNIYTKPVASDYWDGYSGQLVCIIDDIGQNTTDEDWSDFCQLVSGCPMRLNM
+                     ASLEEKGRHFSSPFIIATSNWSNPSPKTVYVKEAIDRRLHFKVEVKPASFFKNPHNDM
+                     LNVNLAKTNDAIKDMSCVDLIMDGHNVSLMDLLSSLVMTVEIRKQNMTEFMELWSQGI
+                     SDDDNDSAVAEFFQSFPSGEPSNSKLSGFFQSVTNHKWVAVGAAVGILGVLVGGWFVY
+                     KHFSRKEEEPIPAEGVYHGVTKPKQVIKLDADPVESQSTLEIAGLVRKNLVQFGVGEK
+                     NGCVRWVMNALGVKDDWLLVPSHAYKFEKDYEMMEFYFNRGGTYYSISAGNVVIQSLD
+                     VGFQDVVLMKVPTIPKFRDITQHFIKKGDVPRALNRLATLVTTVNGTPMLISEGPLKM
+                     EEKATYVHKKNDGTTVDLTVDQAWRGKGEGLPGMCGGALVSSNQSIQNAILGIHVAGG
+                     NSILVAKLVTQEMFQNIDKKIESQRIMKVEFTQCSMNVVSKTLFRKSPIYHHIDKTMI
+                     NFPAAMPFSKAEIDPMAVMLSKYSLPIVEEPEDYKEASIFYQNKIVGKTQLVDDFLDL
+                     DMAITGAPGIDAINMDSSPGFPYVQEKLTKRDLIWLDENGLLLGVHPRLAQRILFNTV
+                     MMENCSDLDVVFTTCPKDELRPLEKVLESKTRAIDACPLDYSILCRMYWGPAISYFHL
+                     NPGFHTGVAIGIDPDRQWDELFKTMIRFGDVGLDLDFSAFDASLSPFMIREAGRIMSE
+                     LSGTPSHFGTALINTIIYSKHLLYNCCYHVCGSMPSGSPCTALLNSIINNVNLYYVFS
+                     KIFGKSPVFFCQALKILCYGDDVLIVFSRDVQIDNLDLIGQKIVDEFKKLGMTATSAD
+                     KNVPQLKPVSELTFLKRSFNLVEDRIRPAISEKTIWSLIAWQRSNAEFEQNLENAQWF
+                     AFMHGYEFYQKFYYFVQSCLEKEMIEYRLKSYDWWRMRFYDQCFICDLS"
+                     /note="Derived using Geneious Prime 2021.2.1 'Transfer
+                     Annotations' based on nucleotide similarity"
+                     /Transferred_From="NC_001489"
+                     /Transferred_Similarity="79.26%"
+                     /Primary_Match="79.26%; Adjusted-Interval-0:0/0;
+                     hypothetical protein CDS (NC_001489)"
+                     /label="hypothetical protein CDS"
+     gene            728..7411
+                     /locus_tag="HAVgp1"
+                     /db_xref="GeneID:1493918"
+                     /note="Derived using Geneious Prime 2021.2.1 'Transfer
+                     Annotations' based on nucleotide similarity"
+                     /Transferred_From="NC_001489"
+                     /Transferred_Similarity="79.26%"
+                     /Primary_Match="79.26%; Adjusted-Interval-0:0/0; gene
+                     (NC_001489)"
+                     /label="gene"
+     CDS             734..7411
+                     /locus_tag="HAVgp2"
+                     /note="polyprotein b (alt.)"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="NP_041008.1"
+                     /db_xref="GI:9626734"
+                     /db_xref="GeneID:1493919"
+                     /Transferred_Translation="MSRQGIFQTVGSGLDHILSLADIEEEQMIQSV
+                     DRTAVTGASYFTSVDQSSVHTAEVGSHQVEPLRTSVDKPGSKKTQGEKFFLIHSADWL
+                     TTHALFHEVAKLDVVKLLYNEQFAVQGLLRYHTYARFGIEIQVQINPTPFQQGGLICA
+                     MVPGDQSYGSIASLTVYPHGLLNCNINNVVRIKVPFIYTRGAYHFKDPQYPVWELTIR
+                     VWSELNIGTGTSAYTSLNVLARFTDLELHGLTPLSTQMMRNEFRVSTTENVVNLSNYE
+                     DARAKMSFALDQEDWKSDPSQGGGIKITHFTTWTSIPTLAAQFPFNASDSVGQQIKVI
+                     PVDPYFFQMTNTNPDQKCITALASICQMFCFWRGDLVFDFQVFPTKYHSGRLLFCFVP
+                     GNELIDVSGITLKQATTAPCAVMDITGVQSTLRFRVPWISDTPYRVNRYTKSAHQKGE
+                     YTAIGKLIVYCYNRLTSPSNVASHVRVNVYLSAINLECFAPLYHAMDVTTQVGDDSGG
+                     FSTTVSTEQNVPDPQVGITTMKDLKGKANRGKMDVSGVQAPVGAITTIEDPVLAKKVP
+                     ETFPELKPGESRHTSDHMSIYKFMGRSHFLCTFTFNSNNKEYTFPITLSSTSNPPHGL
+                     PSTLRWFFNLFQLYRGPLDLTIIITGATDVDGMAWFTPVGLAVDTPWVEKESALSIDY
+                     KTALGAVRFNTRRTGNIQIRLPWYSYLYAVSGALDGLGDKTDSTFGLVSIQIANYNHS
+                     DEYLSFSCYLSVTEQSEFYFPRAPLNSNAMLSTESMMSRIAAGDLESSVDDPRSEEDK
+                     RFESHIECRKPYKELRLEVGKQRLKYAQEELSNEVLPPPRKMKGLFSQAKISLFYTEE
+                     HEIMKFSWRGVTADTRALRRFGFSLAAGRSVWTLEMDAGVLTGRLIRLNDEKWTEMKD
+                     DKIVSLIEKFTSNKYWSKVNFPHGMLDLEEIAANSKDFPNMSETDLCFLLHWLNPKKI
+                     NLADRMLGLSGVQEIKEQGVGLIAECRTFLDSIAGTLKSMMFGFHHSVTVEIINTVLC
+                     FVKSGILLYVIQQLNQDEHSHIIGLLRVMNYADIGCSVISCGKVFSKMLETVFNWQMD
+                     SRMMELRTQSFSNWLRDICSGITIFKNFKDAIYWLYTKLKDFYEVNYGKKKDILNILK
+                     DNQQKIEKAIEEADEFCILQIQDVEKFEQYQKGVDLIQKLRTVHSMAQVDPNLMVHLS
+                     PLRDCIARVHQKLKNLGSINQAMVTRCEPVVCYLYGKRGGGKSLTSIALATKICKHYG
+                     VEPEKNIYTKPVASDYWDGYSGQLVCIIDDIGQNTTDEDWSDFCQLVSGCPMRLNMAS
+                     LEEKGRHFSSPFIIATSNWSNPSPKTVYVKEAIDRRLHFKVEVKPASFFKNPHNDMLN
+                     VNLAKTNDAIKDMSCVDLIMDGHNVSLMDLLSSLVMTVEIRKQNMTEFMELWSQGISD
+                     DDNDSAVAEFFQSFPSGEPSNSKLSGFFQSVTNHKWVAVGAAVGILGVLVGGWFVYKH
+                     FSRKEEEPIPAEGVYHGVTKPKQVIKLDADPVESQSTLEIAGLVRKNLVQFGVGEKNG
+                     CVRWVMNALGVKDDWLLVPSHAYKFEKDYEMMEFYFNRGGTYYSISAGNVVIQSLDVG
+                     FQDVVLMKVPTIPKFRDITQHFIKKGDVPRALNRLATLVTTVNGTPMLISEGPLKMEE
+                     KATYVHKKNDGTTVDLTVDQAWRGKGEGLPGMCGGALVSSNQSIQNAILGIHVAGGNS
+                     ILVAKLVTQEMFQNIDKKIESQRIMKVEFTQCSMNVVSKTLFRKSPIYHHIDKTMINF
+                     PAAMPFSKAEIDPMAVMLSKYSLPIVEEPEDYKEASIFYQNKIVGKTQLVDDFLDLDM
+                     AITGAPGIDAINMDSSPGFPYVQEKLTKRDLIWLDENGLLLGVHPRLAQRILFNTVMM
+                     ENCSDLDVVFTTCPKDELRPLEKVLESKTRAIDACPLDYSILCRMYWGPAISYFHLNP
+                     GFHTGVAIGIDPDRQWDELFKTMIRFGDVGLDLDFSAFDASLSPFMIREAGRIMSELS
+                     GTPSHFGTALINTIIYSKHLLYNCCYHVCGSMPSGSPCTALLNSIINNVNLYYVFSKI
+                     FGKSPVFFCQALKILCYGDDVLIVFSRDVQIDNLDLIGQKIVDEFKKLGMTATSADKN
+                     VPQLKPVSELTFLKRSFNLVEDRIRPAISEKTIWSLIAWQRSNAEFEQNLENAQWFAF
+                     MHGYEFYQKFYYFVQSCLEKEMIEYRLKSYDWWRMRFYDQCFICDLS"
+                     /note="Derived using Geneious Prime 2021.2.1 'Transfer
+                     Annotations' based on nucleotide similarity"
+                     /Transferred_From="NC_001489"
+                     /Transferred_Similarity="79.27%"
+                     /Primary_Match="79.27%; Adjusted-Interval-0:0/0;
+                     hypothetical protein CDS (NC_001489)"
+                     /label="hypothetical protein CDS"
+     gene            734..7411
+                     /locus_tag="HAVgp2"
+                     /db_xref="GeneID:1493919"
+                     /note="Derived using Geneious Prime 2021.2.1 'Transfer
+                     Annotations' based on nucleotide similarity"
+                     /Transferred_From="NC_001489"
+                     /Transferred_Similarity="79.27%"
+                     /Primary_Match="79.27%; Adjusted-Interval-0:0/0; gene
+                     (NC_001489)"
+                     /label="gene"
+     mat_peptide     797..1462
+                     /locus_tag="HAVgp2"
+                     /product="1B VP2 mature peptide"
+                     /protein_id="NP_740550.1"
+                     /db_xref="GI:25121595"
+                     /note="Derived using Geneious Prime 2021.2.1 'Transfer
+                     Annotations' based on nucleotide similarity"
+                     /Transferred_From="NC_001489"
+                     /Transferred_Similarity="81.38%"
+                     /Primary_Match="81.38%; Adjusted-Interval-0:0/0; 1B VP2
+                     mature peptide (NC_001489)"
+                     /label="1B VP2 mature peptide"
+     Polymorphism    864
+                     /locus_tag="HAVgp2"
+                     /note="c in pHAVlb39, t in pHAVlb113"
+                     /note="Derived using Geneious Prime 2021.2.1 'Transfer
+                     Annotations' based on nucleotide similarity"
+                     /Transferred_From="NC_001489"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; 
+                     (NC_001489)"
+                     /label
+     mat_peptide     1463..2200
+                     /locus_tag="HAVgp2"
+                     /product="1C VP3 mature peptide"
+                     /protein_id="NP_740551.1"
+                     /db_xref="GI:25121596"
+                     /note="Derived using Geneious Prime 2021.2.1 'Transfer
+                     Annotations' based on nucleotide similarity"
+                     /Transferred_From="NC_001489"
+                     /Transferred_Similarity="82.38%"
+                     /Primary_Match="82.38%; Adjusted-Interval-0:0/0; 1C VP3
+                     mature peptide (NC_001489)"
+                     /label="1C VP3 mature peptide"
+     Polymorphism    2189
+                     /locus_tag="HAVgp2"
+                     /note="g in pHAVlb39, a in pHAVlb1307"
+                     /note="Derived using Geneious Prime 2021.2.1 'Transfer
+                     Annotations' based on nucleotide similarity"
+                     /Transferred_From="NC_001489"
+                     /Transferred_Similarity="100.00%"
+                     /Primary_Match="100.00%; Adjusted-Interval-0:0/0; 
+                     (NC_001489)"
+                     /label
+     mat_peptide     2201..3100
+                     /locus_tag="HAVgp2"
+                     /product="1D VP1 mature peptide"
+                     /protein_id="NP_740552.1"
+                     /db_xref="GI:25121597"
+                     /note="Derived using Geneious Prime 2021.2.1 'Transfer
+                     Annotations' based on nucleotide similarity"
+                     /Transferred_From="NC_001489"
+                     /Transferred_Similarity="79.00%"
+                     /Primary_Match="79.00%; Adjusted-Interval-0:0/0; 1D VP1
+                     mature peptide (NC_001489)"
+                     /label="1D VP1 mature peptide"
+     mat_peptide     3665..3985
+                     /locus_tag="HAVgp2"
+                     /product="2B mature peptide"
+                     /protein_id="NP_740554.1"
+                     /db_xref="GI:25121599"
+                     /note="Derived using Geneious Prime 2021.2.1 'Transfer
+                     Annotations' based on nucleotide similarity"
+                     /Transferred_From="NC_001489"
+                     /Transferred_Similarity="79.75%"
+                     /Primary_Match="79.75%; Adjusted-Interval-0:0/0; 2B mature
+                     peptide (NC_001489)"
+                     /label="2B mature peptide"
+     mat_peptide     3986..4990
+                     /locus_tag="HAVgp2"
+                     /product="2C mature peptide"
+                     /protein_id="NP_740555.1"
+                     /db_xref="GI:25121600"
+                     /note="Derived using Geneious Prime 2021.2.1 'Transfer
+                     Annotations' based on nucleotide similarity"
+                     /Transferred_From="NC_001489"
+                     /Transferred_Similarity="77.81%"
+                     /Primary_Match="77.81%; Adjusted-Interval-0:0/0; 2C mature
+                     peptide (NC_001489)"
+                     /label="2C mature peptide"
+     mat_peptide     5213..5281
+                     /locus_tag="HAVgp2"
+                     /product="3B (VPg) mature peptide"
+                     /protein_id="NP_740557.1"
+                     /db_xref="GI:25121602"
+                     /note="Derived using Geneious Prime 2021.2.1 'Transfer
+                     Annotations' based on nucleotide similarity"
+                     /Transferred_From="NC_001489"
+                     /Transferred_Similarity="78.26%"
+                     /Primary_Match="78.26%; Adjusted-Interval-0:0/0; 3B (VPg)
+                     mature peptide (NC_001489)"
+                     /label="3B (VPg) mature peptide"
+     mat_peptide     5282..5941
+                     /locus_tag="HAVgp2"
+                     /product="3C mature peptide"
+                     /protein_id="NP_740558.1"
+                     /db_xref="GI:25121603"
+                     /note="Derived using Geneious Prime 2021.2.1 'Transfer
+                     Annotations' based on nucleotide similarity"
+                     /Transferred_From="NC_001489"
+                     /Transferred_Similarity="82.27%"
+                     /Primary_Match="82.27%; Adjusted-Interval-0:0/0; 3C mature
+                     peptide (NC_001489)"
+                     /label="3C mature peptide"
+     mat_peptide     5942..7408
+                     /locus_tag="HAVgp2"
+                     /product="3D mature peptide"
+                     /protein_id="NP_740559.1"
+                     /db_xref="GI:25121604"
+                     /note="Derived using Geneious Prime 2021.2.1 'Transfer
+                     Annotations' based on nucleotide similarity"
+                     /Transferred_From="NC_001489"
+                     /Transferred_Similarity="79.14%"
+                     /Primary_Match="79.14%; Adjusted-Interval-0:0/0; 3D mature
+                     peptide (NC_001489)"
+                     /label="3D mature peptide"
+ORIGIN      
+        1 ttcaagaggg gttcccagat ttttctggga tccctcttgg gagtccatgg tgaggggact
+       61 tgatacctca ccgccgtttg cctaggctat aggcttcccc tttttccttt cccttcctaa
+      121 cccctttatt gtgtatatat taatttctgc aggttcagag ttcttaatat gttccacttt
+      181 atggacactc attttcacgc tttctgtctt ctttgttttc ctgggctctc cccttgccca
+      241 aggctctggc cgttgcgccc ggcggggtca actccatgat tagcatggag ctgtaggagt
+      301 ctaaactggg gacacagatg ttgagaacgt caccttgcag tgttaacttg gcatttatga
+      361 atctctttga tcttccacaa gaggtaggct acgggtgaaa cctcttaggt taatactttt
+      421 ataaagagat actttggata gggtaacagc ggtggatatt ggtgagttct ttatggacaa
+      481 aaaccattca acaccggagg actggctctc atccagtgga tgcattgagt ggactaaatg
+      541 tcagggctgt ctctaggctt aattcttgac ctctctgtgc ttagggcaaa tcaaactttg
+      601 gccttaaatg gaactctgtg agagggggtt cctccttttc atgctggaca tgttttgggg
+      661 ccttttggtt tgatttgctc ctgaggtact caggggcatt taggtttttc ctcactaaaa
+      721 tgatataatg agtatggcta agcaagggtt gtttcagact gtgggcagtg gtttagacca
+      781 cattctttcc ctagctgatg tagaggagga acagatgatt cagtcagttg atagaacagc
+      841 tgtgactggg gcttcatatt ttacctctgt tgatcaatct tcagttcata ctgctgaggt
+      901 tggatcccat cagtcagaac cattaaaaac ttcagttgat aagcctggtt ctaagaagac
+      961 acagggtgag aagttttttc ttatccattc agccgattgg ctgactacac atgctttatt
+     1021 tcatgaagtt gccaaacttg atgtggttag tttgctgtac aatgagcaat ttgcagtgca
+     1081 agggttgttg agataccaca cttatgctag atttggaata gagattcaag tccagataaa
+     1141 tccaacccct tttcaacaag gaggacttat ttgtgccatg gttcctggag atcaaggtta
+     1201 tggttctatt gcttccctta ccgtttatcc acatggtttg ttaaattgta atatcaataa
+     1261 tgtggttaga atcaaagttc catttatata tactagggga gcttatcatt ttaaggatcc
+     1321 tcaatatcct gtttgggagt tgacaattag agtttggtca gagttaaata ttgggactgg
+     1381 aacctcagca tacacatcat tgaatgtttt ggctagattt actgaccttg aactccatgg
+     1441 tctaaccccg ttatcaactc agatgatgag gaatgaattt agggtgagca caactgaaaa
+     1501 tgttgttaat ctttctaact atgaagatgc acgagcaaaa atgtcatttg cattggacca
+     1561 agagaattgg agatctgatc catcagaagg gggaggtatt aaaattacac atttctccac
+     1621 atggacatct ataccaaccc tggctgccca gtttgctttt aatgcttcag cctctgtggg
+     1681 tcaacaaata aaagttatac cagttgaccc ctatttttat cagatgacaa attcaaaccc
+     1741 tgatcagaag tgcattaccg ccttggcttc aatatgtcag atgttttgtt tttggagggg
+     1801 agacttggtt tttgattttc aggtttttcc cacaaaatat cattcaggga gattgttatt
+     1861 ttgttttgta ccaggaaatg agttaataga tgtgtcttct ataacattga aacaagcaac
+     1921 aactgctcca tgtgctgtga tggatattac aggagttcaa tctacattga ggtttcgtgt
+     1981 tccctggatt tcagatactc cttatagagt caatcgttac acgaaatctt cacatcaaaa
+     2041 aggtgagtac acagcaatag ggaagttgat tgtgtactgt tacaatagac tgacttctcc
+     2101 ttccaatgtt gcatctcatg tcagagttaa tgtttatttg tctgccatta atttggaatg
+     2161 ttttgctcct ttgtatcatg ccatggatgt aacatcccaa actggagatg actcaggggg
+     2221 tttttcaact acagtttcca ctgaacaaaa tgttccagac cctcaggttg gtatcacaac
+     2281 tccaaaggat ctgaaaggaa gagctaataa aggaaagatg gatgtttctg gggtacaagc
+     2341 cccagttgga gctataacaa caatagagga tcctgttctt gccaagaaag ttcctgaaac
+     2401 tttcccagag ttgaaacctg gagaatcccg acatacatca gatcacatgt ctgtgtataa
+     2461 atttatggga aggtcacatt tcctttgcac atttacattc aatgcaaata atagagaata
+     2521 tacttttcca attactttgt cgtccacttc aaatcctcca catgggcttc catccacttt
+     2581 gagatggttt tttaatttgt tccagcttta caggggccca ttggatttga ccatcattat
+     2641 tactggagct actgatgtcg atgggatggc ttggtttaca cctgttggtt tagctgtgga
+     2701 tactccttgg gtagagaaac aatctgcact aacaattgat tataagacag ctctaggggc
+     2761 tattagattt aatacaagaa gaactggcaa cattcaaata agattgcctt ggtactccta
+     2821 cctttatgct gtgtcaggcg ctttagatgg acttggagac acaactgatt ctacttttgg
+     2881 tctggtttct atacaaattg caaactataa tcattctgat gagtacttgt ccttcagctg
+     2941 ttatttgtct gttacagaac aatctgaatt tttctttcct agggctcctt tgaattcaag
+     3001 tgctatgatg acttctgaga ccatgttaga tagaattgct ggaggtgatc ttgagtcctc
+     3061 agtggatgat cctcggtcag atgaggatcg aagatttgag agtcacattg aaagaaaacc
+     3121 atataaagag ctgagattgg aagttggtaa gcagagattg aaatatgcta aagaggaatt
+     3181 atcaaatgaa attctgcccc ctcccaggaa gatgaaggga ttgttttcac agtctaagat
+     3241 ttctcttttt tatgctgaag atcatgaaat tattaagctt tcttggaaag gtctttcggc
+     3301 agacactaga gctttgcgca gatatggttt ttctttggct gcaggtagga gtgtctggac
+     3361 actagagatg gattcaggag ttctcacagg aaggcttgtc agacttgctg atgagaattg
+     3421 gactgaaatt aaggatgata aaattgtttc tttagtggag aaattcacat caaataagaa
+     3481 ttggtctaaa gtgaaatttc cccatggaat gatggacttg gaagaaatag cagcaaactc
+     3541 tcaagaattt ccaaatatgt ctgaggcaga attaggcttt cttttgcatt ggttgaatcc
+     3601 aaagaaaata aatcttgctg acaggatgtt ggggctttct ggtgttaaag aaatcaagga
+     3661 acagagtgtt ggtttattgt cagagtgcaa gacattcttg gactcaatag ctggaacatt
+     3721 aaaggcaatg atgtttggtt tccatcagtc agttactgta gaaattatca atactgttct
+     3781 ttgttttctt aaaggtggta ttctccttta tgtaatgcaa caacttgata aaaatgaaca
+     3841 ttcacacata attggacttt tacaagtgat gaattatgct gatattggct gttcagttat
+     3901 ttcatgtggg aaaatttttt ccaaaatgtt ggagactgtt ttcaactggc aaatggactc
+     3961 cagaatgttg gcattgagat cccagagttt ttcaaactgg cttcgagatg tttgttcagg
+     4021 aattacaatc ttcaagaatt ttaaggatgc aatattctgg ttgtatacca aattgaaaac
+     4081 ctattatgat gacaactatg gactcggtaa agatgtcctt aatgccttaa aggaaaatca
+     4141 aagtaggatt gagaaggcaa ttgaagaggc tgaccaattc tgtgtgattc aaatccagga
+     4201 tgtagaaaag tctgagcaat atcagaaagg gattgatctt attaaaaaac tgagaactgt
+     4261 ccattcgttg gctcaagttg attcttcttt gtctgttcat ctttctcctt tgagagattg
+     4321 catctctcgg gttcatcaaa agttgaaaaa tcttggttct attaatcagg ctatggtgac
+     4381 tagatgtgaa cctgttgtgt gttatctaca tggtaagaga ggagggggaa aaagtttgac
+     4441 atcaattgcc ttagccacaa agatttgtaa gcactatggt gttgaacctg aaaagaacat
+     4501 ctacacaaag cctgttgctt cagattactg ggatggctat agtggtcaat tagtgtgcat
+     4561 tatagatgac attggacaaa ataccactga tgaggattgg tctgattttt gtcaattagt
+     4621 ttcagggtgt ccaatgagat tgaacatggc ctctattgaa gaaaaaggaa gacatttttc
+     4681 ctctccattc attatagcta cttcaaattg gtcgaatcct agtcctaaaa cagtgtatgt
+     4741 gaaggaagct attgatcgta ggctgcatta caaggttgag gttaaacctg cctcctttta
+     4801 taagaatgta cataatgaca tgttgaatgt tggtttggca aaaaataatg atgctatcaa
+     4861 agatatgtct tgtgttgatt tgaccatgga cggtcactct atttcactgc ttgacctgtt
+     4921 aaactccctg attatgacag ttgaaattag gaaacaaaat atgtcagaat ttatgaggtt
+     4981 gtggtctcaa ggagtttcag aatatgataa tactgacatt gttggagagt ttttccaatc
+     5041 ttttccttca ggtgacccat cagggtccaa attaacgaac ttttttaaag cagtaactaa
+     5101 tcacaaatgg attgctgtag gtgcagctgt tggaatcttg ggaattcttg ttggtggttg
+     5161 gtttgtgtat aaacatttta ccaaaaaaga ggatgagccc attccaagtg gtgggattta
+     5221 tcatggagtt tccaaaccta agcaagtgat taagttagat gctgatcctg ctgagtctca
+     5281 atccactttg gaaattgctg gtttagttag aaagaatttg gtccaatttg gagtgggtga
+     5341 gaagaatggg tgtgttagat gggttatgaa tgccttggga gtaaaagatg attggcttct
+     5401 tgtgccatct catgcatata aatttgagaa ggattatgaa atgatggaat tctattttaa
+     5461 tagaggtggc acatattatt ctatttctgc tggtaatgtt gtcattcagt cactagatgt
+     5521 tggtttccag gatgtggttt taatgaaggt tccaacgatc cccaaattta gagacataac
+     5581 agagcatttt atcaagaaaa gtgatgtgcc tagggcactt aatagattgg ctactttagt
+     5641 tactactgtc aatgggactc caatgttgat ttcagaaggt cctctcaaaa tggaagaaaa
+     5701 agcaacatat gtccataaga gaaatgatgg aactactgta gagttgactg tggatcaagc
+     5761 ttggagagga aaaggagaag gtttggctgg aatgtgtgga ggggctttag tttcctctaa
+     5821 tcagtcaatt cagaatgcaa ttttaggaat tcatgtggct ggtggaaatt caattctagt
+     5881 tgctaaatta gtcacccagg aaatgtttca gaacattgaa cagagagtta ttgaaagtca
+     5941 gagaataatg aaagtggagt ttactcagtg ttcagtgaat gtggtctcca aaacgctttt
+     6001 taaaaagagt ccaattcacc atcacattga taaggacatg attaattatc ctgctgtgat
+     6061 gcctttctct aaggctgaga ttgatcctat ggctgttatg ctttccaagt attcattgcc
+     6121 tattgtggat gagcccgaag ggtatagaga agcttcaatc tttttccaga ataaaatttt
+     6181 aggcaaaaca tttttggttg atgattttct ggatgtggat atggcaataa ctggagctcc
+     6241 aggtattgat gccattaata tggattcttc tcctggtttt ccatatgttc aggagcaatt
+     6301 atctaaaaga gacttgattt ggttagatga taatggaatg ttcttggggc ttcaccctcg
+     6361 tttagcacaa agaatattgt acaatacagt gatgatggaa aattgttcag atctagatgt
+     6421 tgtttttaca acttgtccta aagatgaatt gaggtccatt gacaaggttc tagagtccaa
+     6481 aactagggct atagatgctt gtccccttga ttatactatt ctatgtagaa tttattgggg
+     6541 ccctgcaata agctattttc aattgaatcc aggttttcat actggtgtgg ccattggcat
+     6601 tgatcctgat agacattggg atgaactgtt taaaactatg atcaggtttg gtgatgttgg
+     6661 tcttgatttg gatttttcct catttgatgc tagcttgagt ccgtttatga tcagagaagc
+     6721 tggtagaatt ttgagtgaaa tgtctaagac ccctgaacat tttgggaagg ctttaatcaa
+     6781 caccattata tattctaagc acttgttata caattgttgt tatcatgttt atggatctat
+     6841 gccatctggt tctccatgta cagcactttt gaattctatt gtgaacaatg tgaatttata
+     6901 ctatgtgttc tctagaattt ttaaaaagtc tccagttttc ttttccgagg ctttgaggat
+     6961 tctatgctat ggggatgatg tcctcattgt tttttccaga aaggttcaaa ttgaaaattt
+     7021 ggacaatatt ggacaaagga ttgttgaaga atttaagaag ctgggaatgg tagctacttc
+     7081 agcagataaa gggattccta aattgaaacc tgtctcagaa ctgaccttct tgaagagatc
+     7141 ttttaatttg gtggaagata gagtgagacc tgcaatagct gagaagacaa tatggtcttt
+     7201 agtggcttgg aaaagaagta atgctgaatt tgaacagaat cttgagaatg ctcagtggtt
+     7261 tgccttcatg catggctatg agttttatca aaaattttat catttcattc agtcttgttt
+     7321 ggatcgtgaa atgttagatt ataagttgaa gtcttatgaa tggtggagaa tgaaatttaa
+     7381 tgatcagtgt ttcatttgtg acctttcatg acttgcttaa acaaattttc ttaaaatttc
+     7441 tgtgatttgt ttattctatg tttacagtaa awaaaaaaaa aaaaaaaaaa
+//
